@@ -15,7 +15,7 @@ The **103 UDS Mobile Application** is part of Uzbekistan's **112 Unified Dispatc
 
 This tablet-only application is designed specifically for **103 medical staff (doctors/medics)**. Before this app, medics recorded patient calls on paper, which was inefficient and prone to errors. With this application, medics can receive, manage, and respond to emergency calls digitally, improving response efficiency across the country.  
 
-Dispatchers receive emergency calls via a **web platform** and create **control cards** for each patient. These control cards are sent to medics via **SignalR** in real-time, enabling medics to accept the calls, view patient location, navigate the optimal route, and manage patient treatment digitally.
+Dispatchers receive emergency calls via a **web platform** and create **control cards** for each patient. These control cards are sent to medics instantly, allowing them to accept calls, see patient locations on the map, navigate the best route, and manage patient treatment digitally.
 
 ---
 
