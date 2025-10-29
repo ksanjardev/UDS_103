@@ -38,9 +38,6 @@ Dispatchers receive emergency calls via a **web platform** and create **control 
   - Automatic synchronization when internet is restored.
 - **Custom UI Features** 🖌️
   - Animated map popup showing user location.
-- **Developer & Production Modes** ⚙️
-  - Separate configurations for testing and live usage.
-
 ---
 
 ## Tech Stack 🛠️
