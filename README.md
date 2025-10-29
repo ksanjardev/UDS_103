@@ -59,10 +59,10 @@ Dispatchers receive emergency calls via a **web platform** and create **control 
 
 **Screenshots of the app in action:**
 
-1. ![Screenshot 1](path_to_image_1)  
-2. ![Screenshot 2](path_to_image_2)  
-3. ![Screenshot 3](path_to_image_3)  
-4. ![Screenshot 4](path_to_image_4)
+1. ![Screenshot 1](photo103_1.png)  
+2. ![Screenshot 2](photo103_2.png)  
+3. ![Screenshot 3](photo103_3.png)  
+4. ![Screenshot 4](photo103_4.png)
 
 **Video Demo:**  
 [Watch the demo video](your_video_url) – *Note: This video is in test mode for demonstration purposes only.*
