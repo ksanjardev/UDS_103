@@ -80,11 +80,3 @@ This project was developed with a cross-functional team of **mobile, web, and ba
 
 - This project is **internal and confidential**. The code is **not publicly available** due to privacy regulations.  
 - Demo materials are **showcase-only** and do not contain real patient data.  
-
----
-
-## Future Improvements / Roadmap 🚀
-
-- AI-assisted patient triage recommendations.  
-- Advanced predictive routing for faster response times.  
-- Enhanced offline conflict resolution for multi-user edits.  
